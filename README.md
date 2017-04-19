@@ -19,3 +19,16 @@ I hope that when I have to take that manuscript offline, I will be able to
 interest you in the full version of the book.
 
 Python rocks - also for statistical tasks!
+Author: Thomas Haslwanter
+
+Why Use this Edit (Fork) of the Intro to Stats repository?
+----------------------------------------------------------
+My objective is to improve the original manuscript described above at all levels from
+fixing typos, to inserting missing explanations, and checking that all notebooks will
+run flawlessly with current versions of Python and supporting libraries.
+The primary objective is to make this an easy-to-use reference for applying the Python
+stats tools for common tasks, without need to refer to the textbook by Haslwanter.
+I'm also very motivated to support the notion that most of us can do stats with Python 
+instead of R, STATA etc.
+
+Editor: Perry Radau
